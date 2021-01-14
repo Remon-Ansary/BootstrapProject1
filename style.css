@@ -105,9 +105,12 @@ button.btn {
 }
 .last-line{
 	position: center;
-	background-color: rgba(68, 68, 65, 0.77);
+	background-color: rgba(22, 163, 151, 0.77);
 }
 .bg1{
 	background-color:#DCDCDC ;
 
+}
+.pages{
+    background-color:#b9cf95;
 }
